@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    border: 20px solid Black;
+}
+
+#feed {
+    margin-top: 30px;
+}
+
+h1 {
+    border: 10px solid Black;
+
+
+}
